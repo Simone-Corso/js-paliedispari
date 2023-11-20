@@ -27,4 +27,11 @@
 
 //Nella console funziona in modo corretto, genera il numero randomico.
 
+//Adesso dobbiamo creare una variabile per sommare pariOppuredispari + generaComputerNumber
+
+    const somma = pariOppuredispari + generaComputerNumber;
+    console.log(somma);
+
+//Nella console funziona, presenta sia dispari che il numero. 
+
 
