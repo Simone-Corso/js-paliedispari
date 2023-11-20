@@ -13,4 +13,10 @@
 
     //nella console funziona per chiedere pari o dispari.
 
-//Creare 
+//Creare un'altra prompt per chiedere di scrivere un numero da 1 a 5.
+
+    const qualeNumero = prompt ("scrivere un numero da 1 a 5");
+    console.log(qualeNumero);
+
+//Nella console funziona sia per chiedere e quale numero che vuole sceglieri l'utente.
+
