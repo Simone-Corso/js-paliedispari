@@ -34,4 +34,11 @@
 
 //Nella console funziona, presenta sia dispari che il numero. 
 
+//facciamo la funzione per il calcolo, da un numero minimo al max.
+
+    function generaComputerNumber(min,max){
+
+
+}
+
 
