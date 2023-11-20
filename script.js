@@ -20,3 +20,11 @@
 
 //Nella console funziona sia per chiedere e quale numero che vuole sceglieri l'utente.
 
+//Ora dovremmo creare un numero randomico generato dal computer, per poi procedere alla somma dei due numeri.
+
+    const generaComputerNumber = (Math.random(1,5));
+    console.log(generaComputerNumber);
+
+//Nella console funziona in modo corretto, genera il numero randomico.
+
+
