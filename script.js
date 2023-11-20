@@ -36,9 +36,12 @@
 
 //facciamo la funzione per il calcolo, da un numero minimo al max.
 
-    function generaComputerNumber(min,max){
-
-
+    function random (min,max){
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        return Math.floor(Math.random(1,5) * (max - min) + min);
 }
+
+//quello che ho scritto nella funzione, ho inserito ceil min che è il parametro del 1 del math.random mentre math floor è il paramentro del 5.
 
 
