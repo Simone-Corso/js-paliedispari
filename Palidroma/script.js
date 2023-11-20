@@ -6,3 +6,6 @@
     const chiediParola = prompt('Inserire qualsiasi parola');
     console.log(chiediParola);
 //Nella console funziona nel chiedere qualsiasi parola.
+
+//Inserire una variabile dell'utente che ha inserito, ma far si che quando sbaglia compare "la parole è polindroma" cioè true o false
+
