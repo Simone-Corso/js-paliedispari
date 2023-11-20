@@ -9,3 +9,13 @@
 
 //Inserire una variabile dell'utente che ha inserito, ma far si che quando sbaglia compare "la parole è polindroma" cioè true o false
 
+    
+
+    function palindroma (name) {
+        if (name == "palindroma"){
+            return true;
+        } else {
+            return false;
+        }
+    }
+    console.log(palindroma);
