@@ -4,3 +4,13 @@
 //Sommiamo i due numeri
 //Stabiliamo se la somma dei due numeri è pari o dispari (usando un'altra funzione)
 //Dichiariamo chi ha vinto.
+
+
+//Creare un prompt per chiedere all'utente pari o dispari
+
+    const pariOppuredispari = prompt ("scrivi un numero pari o dispari");
+    console.log(pariOppuredispari);
+
+    //nella console funziona per chiedere pari o dispari.
+
+//Creare 
